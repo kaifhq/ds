@@ -1,0 +1,8 @@
+.col, .col-between {
+  display: flex;
+  flex-direction: column;
+}
+
+.col-between {
+  justify-content: space-between;
+}

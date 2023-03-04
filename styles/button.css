@@ -1,0 +1,27 @@
+.button, .button-l {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  cursor: pointer;
+  background: none;
+  border: 1px solid #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.button {
+  width: 44px;
+  height: 44px;
+  border-radius: 44px;
+}
+
+.button-l {
+  padding: 1rem 3rem;
+  font-size: 1.35rem;
+  border-radius: 30px;
+}
+
+.button:hover, .button-l:hover {
+  color: #000;
+  background: #fff;
+}

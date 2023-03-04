@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC');
+@import url('https://fonts.cdnfonts.com/css/objektiv-mk1-trial');
+
+.text-primary {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.text-secondary {
+  font-family: 'Objektiv Mk1 Trial', sans-serif;
+}
