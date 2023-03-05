@@ -21,7 +21,10 @@
   border-radius: 30px;
 }
 
-.button:hover, .button-l:hover {
+.button:hover,
+.button:active,
+.button-l:hover,
+.button-l:active {
   color: #000;
   background: #fff;
 }
